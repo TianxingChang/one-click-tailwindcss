@@ -1,6 +1,7 @@
 # one-click-tailwindcss
 First give the script execute permission using following command. <br>
 `chmod +x npm_setup.sh` <br>
+<br>
 Then run the script by <br>
 `source npm_setup.sh` <br>
 
