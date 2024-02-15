@@ -1,8 +1,9 @@
 # one-click-tailwindcss
-Following script just does all the instructions in below link for you automatically.
+This script does all the instructions in below link for you automatically.
 [https://tailwindcss.com/docs/guides/vite]
 <br><br>
 
+## To run the script:
 First give the script execute permission using following command. <br>
 `chmod +x npm_setup.sh` <br>
 <br>
